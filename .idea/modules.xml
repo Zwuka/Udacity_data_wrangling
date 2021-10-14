@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Programming_trainings/.idea/Programming_trainings.iml" filepath="$PROJECT_DIR$/../../Programming_trainings/.idea/Programming_trainings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Udacy_data_wrangling.iml" filepath="$PROJECT_DIR$/.idea/Udacy_data_wrangling.iml" />
+    </modules>
+  </component>
+</project>
